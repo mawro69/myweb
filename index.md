@@ -1,9 +1,12 @@
 ## "They showed themselves, the top 1% of the 1%, the ones in control, the ones who play God without permission. And now I'm gonna take them down."
 
-Si vous tombez par hasard sur cette page, c'est que vous c'est votre jours de chance, mais avant de poursuivre votre lecture résolvez mon ennigme : 
+Si vous tombez par hasard sur cette page, c'est que vous c'est votre jours de chance, mais avant de poursuivre votre lecture résolvez mon énigme : 
+
+
 If you stumble across this page by chance, it's your lucky day, but before you read on, solve my riddle:
 
-### Print ("Hello Word")
+### Print ("clue")
+Out[1]: 'The quick brown fox jumps over the lazy dog'
 
 
 ```markdown
