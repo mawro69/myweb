@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## "They showed themselves, the top 1% of the 1%, the ones in control, the ones who play God without permission. And now I'm gonna take them down."
 
 You can use the [editor on GitHub](https://github.com/mawro69/myweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
