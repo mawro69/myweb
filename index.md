@@ -1,12 +1,10 @@
 ## "They showed themselves, the top 1% of the 1%, the ones in control, the ones who play God without permission. And now I'm gonna take them down."
 
-You can use the [editor on GitHub](https://github.com/mawro69/myweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Si vous tombez par hasard sur cette page, c'est que vous c'est votre jours de chance, mais avant de poursuivre votre lecture résolvez mon ennigme : 
+If you stumble across this page by chance, it's your lucky day, but before you read on, solve my riddle:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Print ("Hello Word")
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
