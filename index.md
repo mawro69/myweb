@@ -26,8 +26,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="light" data-vanity="mohamed-anwar-abouabdallah-a35041117"><a class="LI-simple-link" href='https://fr.linkedin.com/in/mohamed-anwar-abouabdallah-a35041117?trk=profile-badge'>Mohamed Anwar ABOUABDALLAH</a></div>
 
 ### Jekyll Themes
 
