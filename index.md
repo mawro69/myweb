@@ -1,5 +1,8 @@
 ## "They showed themselves, the top 1% of the 1%, the ones in control, the ones who play God without permission. And now I'm gonna take them down."
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="dark" data-vanity="anwarabouabdallah"><a class="LI-simple-link" href='https://fr.linkedin.com/in/anwarabouabdallah?trk=profile-badge'>Mohamed Anwar ABOUABDALLAH</a></div>
+
+
 Si vous tombez par hasard sur cette page, c'est que vous c'est votre jours de chance, mais avant de poursuivre votre lecture résolvez mon énigme : 
 
 
